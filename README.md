@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**dedouwe26/dedouwe26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/dedouwe26)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [GAIL](https://github.com/dedouwe26/GAIL)
+- 🌱 I’m currently learning Rust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+
+### Languages
+- C#
+- Java
+- Python
+- HTML / CSS / JS
+
+## 📈 GitHub Stats
+
+![Dedouwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=dedouwe26&show_icons=true&theme=radical)
