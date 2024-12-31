@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, 0xDED here!
 
 ![Profile views](https://gpvc.arturio.dev/dedouwe26)
 
